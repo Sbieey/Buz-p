@@ -1,0 +1,17 @@
+{
+  "name": "foogodeliveryapp",
+  "version": "2.0.0",
+  "description": "this is an application that can any restaurant in abuja can register in it so that a user can buy from any of their food with them. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "Everything should be donr as soon as possible"
+  },
+  "keywords": [
+    "delivery",
+    "restaurant",
+    "food",
+    "eatry"
+  ],
+  "author": "SUleiman Kakuri Kabiru Muhammad",
+  "license": "ISC"
+}
